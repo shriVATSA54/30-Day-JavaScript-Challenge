@@ -67,6 +67,29 @@ const array2 = aarra2.reduce((acc, crent) => {
 console.log(array2);
 
 
+//activity 4
+// for loop
+
+for (i = 0; i < arra.length; i++) {
+    console.log(arra[i]);
+}
+console.log("  array  ")
+
+//Task 2 for each loop
+arra.forEach(element => {
+    console.log(element);
+
+});
+
+//Activity 5
+//Task1
+const array3 = [[1, 2, 3], [4, 5, 6]];
+console.log(array3);
+
+//Task 2
+console.log(array3[1][1]);
+
+
 
 
 
